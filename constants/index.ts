@@ -89,6 +89,186 @@ export const resumes: Resume[] = [
       },
     },
   },
+  {
+    id: "4",
+    companyName: "Amazon",
+    jobTitle: "Backend Developer",
+    imagePath: "/images/resume_01.png",
+    resumePath: "/resumes/resume-3.pdf",
+    feedback: {
+      overallScore: 80,
+      ATS: {
+        score: 85,
+        tips: [],
+      },
+      toneAndStyle: {
+        score: 80,
+        tips: [],
+      },
+      content: {
+        score: 82,
+        tips: [],
+      },
+      structure: {
+        score: 78,
+        tips: [],
+      },
+      skills: {
+        score: 84,
+        tips: [],
+      },
+    },
+  },
+  {
+    id: "5",
+    companyName: "Meta",
+    jobTitle: "Full Stack Engineer",
+    imagePath: "/images/resume_02.png",
+    resumePath: "/resumes/resume-2.pdf",
+    feedback: {
+      overallScore: 70,
+      ATS: {
+        score: 75,
+        tips: [],
+      },
+      toneAndStyle: {
+        score: 72,
+        tips: [],
+      },
+      content: {
+        score: 74,
+        tips: [],
+      },
+      structure: {
+        score: 71,
+        tips: [],
+      },
+      skills: {
+        score: 73,
+        tips: [],
+      },
+    },
+  },
+  {
+    id: "6",
+    companyName: "Netflix",
+    jobTitle: "DevOps Engineer",
+    imagePath: "/images/resume_03.png",
+    resumePath: "/resumes/resume-1.pdf",
+    feedback: {
+      overallScore: 65,
+      ATS: {
+        score: 68,
+        tips: [],
+      },
+      toneAndStyle: {
+        score: 66,
+        tips: [],
+      },
+      content: {
+        score: 67,
+        tips: [],
+      },
+      structure: {
+        score: 65,
+        tips: [],
+      },
+      skills: {
+        score: 69,
+        tips: [],
+      },
+    },
+  },
+  {
+    id: "7",
+    companyName: "Tesla",
+    jobTitle: "Machine Learning Engineer",
+    imagePath: "/images/resume_01.png",
+    resumePath: "/resumes/resume-3.pdf",
+    feedback: {
+      overallScore: 78,
+      ATS: {
+        score: 80,
+        tips: [],
+      },
+      toneAndStyle: {
+        score: 79,
+        tips: [],
+      },
+      content: {
+        score: 77,
+        tips: [],
+      },
+      structure: {
+        score: 76,
+        tips: [],
+      },
+      skills: {
+        score: 78,
+        tips: [],
+      },
+    },
+  },
+  {
+    id: "8",
+    companyName: "IBM",
+    jobTitle: "Data Scientist",
+    imagePath: "/images/resume_02.png",
+    resumePath: "/resumes/resume-2.pdf",
+    feedback: {
+      overallScore: 82,
+      ATS: {
+        score: 84,
+        tips: [],
+      },
+      toneAndStyle: {
+        score: 83,
+        tips: [],
+      },
+      content: {
+        score: 81,
+        tips: [],
+      },
+      structure: {
+        score: 80,
+        tips: [],
+      },
+      skills: {
+        score: 82,
+        tips: [],
+      },
+    },
+  },
+  {
+    id: "9",
+    companyName: "Salesforce",
+    jobTitle: "CRM Specialist",
+    imagePath: "/images/resume_03.png",
+    resumePath: "/resumes/resume-1.pdf",
+    feedback: {
+      overallScore: 77,
+      ATS: {
+        score: 80,
+        tips: [],
+      },
+      toneAndStyle: {
+        score: 78,
+        tips: [],
+      },
+      content: {
+        score: 76,
+        tips: [],
+      },
+      structure: {
+        score: 75,
+        tips: [],
+      },
+      skills: {
+        score: 77,
+        tips: [],
+      },
+    },
+  },
 ];
 
 export const AIResponseFormat = `
