@@ -11,3 +11,7 @@ export const formatSize = (bytes: number): string => {
   if (bytes >= MB) return `${fmt(bytes / MB)} MB`;
   return `${fmt(bytes / KB)} KB`;
 };
+
+
+export const generateUUID = () => crypto.randomUUID();
+
